@@ -2,7 +2,7 @@ Built an end-to-end natural language photo search system using CLIP and Hugging 
 
 Ingest the images and store the CLIP embeddings in FAISS.
 
-Perform similarity search based on the Query embeddings of the Natiral Language.
+Perform similarity search based on the Query embeddings of the Natural Language.
 
 Display the retrieved images.
 
